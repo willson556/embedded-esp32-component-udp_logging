@@ -13,7 +13,7 @@
 //  limitations under the License.
 
 #ifndef UDP_LOGGING_MAX_PAYLOAD_LEN
-#define UDP_LOGGING_MAX_PAYLOAD_LEN 2048
+#define UDP_LOGGING_MAX_PAYLOAD_LEN 4096
 #endif
 
 #ifdef __cplusplus
